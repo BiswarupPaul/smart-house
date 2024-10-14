@@ -35,7 +35,7 @@ include("includes/conn.php");
 								</p>
 							  </div>
 							  <div class="card-footer">
-								<a href="blog_details.html" class="readmore">Read More ...</a>
+								<a href="blog_details.php" class="readmore">Read More ...</a>
 							  </div>
 							</div>
 						</div>
@@ -49,7 +49,7 @@ include("includes/conn.php");
 								</p>
 							  </div>
 							  <div class="card-footer">
-								<a href="blog_details.html" class="readmore">Read More ...</a>
+								<a href="blog_details.php" class="readmore">Read More ...</a>
 							  </div>
 							</div>
 						</div>
@@ -63,7 +63,7 @@ include("includes/conn.php");
 								</p>
 							  </div>
 							  <div class="card-footer">
-								<a href="blog_details.html" class="readmore">Read More ...</a>
+								<a href="blog_details.php" class="readmore">Read More ...</a>
 							  </div>
 							</div>
 						</div>
@@ -77,7 +77,7 @@ include("includes/conn.php");
 								</p>
 							  </div>
 							  <div class="card-footer">
-								<a href="blog_details.html" class="readmore">Read More ...</a>
+								<a href="blog_details.php" class="readmore">Read More ...</a>
 							  </div>
 							</div>
 						</div>

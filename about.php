@@ -42,7 +42,7 @@ include("includes/conn.php");
 							<li>Lorem Ipsum is simply dummy text</li>
 							<li>Lorem Ipsum is simply dummy text</li>
 						</ul>
-						<a href="contact.html" class="custom-btn btn-primary"><span>Enquire Now <i class="fa fa-angle-right"></i></span></a>
+						<a href="contact.php" class="custom-btn btn-primary"><span>Enquire Now <i class="fa fa-angle-right"></i></span></a>
 					</div>	
 				</div>	
 			</div>

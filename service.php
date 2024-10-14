@@ -65,7 +65,7 @@ include("includes/conn.php");
 						<li>Lorem Ipsum is simply dummy text</li>
 						<li>Lorem Ipsum is simply dummy text</li>
 					</ul>
-					<a href="contact.html" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
+					<a href="contact.php" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
 					</div>
 					<div class="col-md-6"><img class="img-fluid" src="images/SIP.jpg"></div>
 				</div>
@@ -88,7 +88,7 @@ include("includes/conn.php");
 						<li>Lorem Ipsum is simply dummy text</li>
 						<li>Lorem Ipsum is simply dummy text</li>
 					</ul>
-					<a href="contact.html" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
+					<a href="contact.php" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
 					</div>
 					<div class="col-md-6"><img class="img-fluid" src="images/Retirement-Plan.jpg"></div>
 				</div>
@@ -112,7 +112,7 @@ include("includes/conn.php");
 						<li>Lorem Ipsum is simply dummy text</li>
 						<li>Lorem Ipsum is simply dummy text</li>
 					</ul>
-					<a href="contact.html" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
+					<a href="contact.php" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
 					</div>
 					<div class="col-md-6"><img class="img-fluid" src="images/Child-Plan.jpg"></div>
 				</div>
@@ -135,7 +135,7 @@ include("includes/conn.php");
 						<li>Lorem Ipsum is simply dummy text</li>
 						<li>Lorem Ipsum is simply dummy text</li>
 					</ul>
-					<a href="contact.html" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
+					<a href="contact.php" class="custom-btn btn-primary mb-3"><span>Get Free Consultant <i class="fa fa-angle-right"></i></span></a>
 					</div>
 					<div class="col-md-6"><img class="img-fluid" src="images/Lumsum.jpg"></div>
 				</div>
@@ -169,127 +169,127 @@ include("includes/conn.php");
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 				<div class="col-md-1 logobox">
 					<section class="hover-div"> 
 						<img class="img-fluid" src="images/Birla_Logo.png">
-						<a href="contact.html">Enquire Now</a>
+						<a href="contact.php">Enquire Now</a>
 					</section>
 				</div>
 			</div>
@@ -387,7 +387,7 @@ include("includes/conn.php");
 			</div>
 		</div>
 		</div>
-		<div class="text-center mt-3"><a href="contact.html" class="custom-btn btn-primary wow fadeInUp"><span>Schedule a Meeting <i class="fas fa-paper-plane"></i></span></a></div>
+		<div class="text-center mt-3"><a href="contact.php" class="custom-btn btn-primary wow fadeInUp"><span>Schedule a Meeting <i class="fas fa-paper-plane"></i></span></a></div>
 		</div>
 	</section>	
 	<!-- contact -->

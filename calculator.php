@@ -63,7 +63,7 @@ include("includes/conn.php");
 			   <div class="d-none d-sm-block">
 				<div class="d-grid gap-2 mx-auto">
 					<img class="img-fluid rounded " src="images/expert.jpg">
-					<a href="contact.html" class="btn btn-secondary pulseit"><span>Talk to an Expert <i class="fa fa-thumbs-up"></i></span></a>
+					<a href="contact.php" class="btn btn-secondary pulseit"><span>Talk to an Expert <i class="fa fa-thumbs-up"></i></span></a>
 				</div>
 			  </div>
 			  </div>

@@ -84,7 +84,7 @@
 
 </div><!-- /footer -->
 
-<div class="mascot"><a href="contact.html"><img src="images/mascot.png"></a></div>
+<div class="mascot"><a href="contact.php"><img src="images/mascot.png"></a></div>
 
 
 	<!-- Bootstrap core JavaScript================================================== -->

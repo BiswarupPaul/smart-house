@@ -15,7 +15,7 @@
 <link href="css/responsive.css" rel="stylesheet">
 <link href="css/stellarnav.css" rel="stylesheet">
 <link rel="stylesheet" href="css/owl.carousel.css"/>
-<link rel="shortcut icon" href="images/favicon.png">
+<link rel="shortcut icon" href="images/fav.png">
 
 </head>
 <body>
@@ -33,8 +33,8 @@
 			<div class="menu-bar">
 			    <div class="container">
 					<nav class="navbar" style="color:#fff;">
-						  <a class="logo-main" href="index.html">
-						  	<span class="custom-logo-link"><img src="images/logo.jpg"></span>
+						  <a class="logo-main" href="index.php">
+						  	<span class="custom-logo-link"><img src="images/logo.png"></span>
 						  </a>
 						  <div class="d-flex align-items-center flex-wrap">
 							  	<div class="menu menu-1">
